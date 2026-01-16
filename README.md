@@ -1,10 +1,6 @@
 # Hi, I'm Thomas 👋
 
-63 years of age. Unemployed and totally age discriminated on the Swedish job market (look it up, I dare you). 
-
-Somehow still very young at heart and love to stay ahead of the crowd regarding everything AI. Using AI for programming and sometimes with embedded AI capabilities inside apps. 100% autodidact.
-
-Broke as a biatch, so hopefully one of these apps will land me a job someday. Meanwhile, if you enjoy my work, please buy me a coffee to help me stay afloat.
+63 years of age. Unemployed and totally age discriminated on the Swedish job market (look it up, I dare you). Somehow still very young at heart and love to stay ahead of the crowd regarding everything AI. I am developing an expertise in everything Anthropic, Claude.ai, Claude Code and agentic coding. 100% autodidact. Hopefully one of these apps will help me land me a job someday.
 
 ## 🔗 Connect with me
 
